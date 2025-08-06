@@ -1,7 +1,7 @@
 <?php
-int a=10;
-int b=10;
-c=a+b;
-echo "Addition",c;
+$ a=10;
+$ b=10;
+$c=a+b;
+echo "Addition",$c;
 
 
