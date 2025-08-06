@@ -1,5 +1,7 @@
 <?php
-
-echo "Chaitanya Raut";
+int a=10;
+int b=10;
+c=a+b;
+echo "Addition",c;
 
 
