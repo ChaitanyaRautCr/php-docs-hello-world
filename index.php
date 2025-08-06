@@ -4,4 +4,3 @@ $ b=10;
 $c=a+b;
 echo "Addition",$c;
 
-
